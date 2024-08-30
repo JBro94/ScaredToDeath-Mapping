@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature", 
+            "geometry": {
+                "type": "Point",
+                "coordinates": [48.019362093249775, -115.03345244537701]
+            },
+            "properties": {
+                "Episode": 157,
+                "Story": 1,
+                "Location": "Lower Thompson Lake",
+                "Classifiocation": "Cryptid",
+                "Description": "Couple is camping when a strange presence harasses them and their dogs outside of their tent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [33.09583905688764, -86.82603766931672]
+            },
+            "properties": {
+                "Episode": 157,
+                "Story": 2,
+                "Location": "Rural Alabama, 30 minutes from Georgia",
+                "Classification": "Ghost",
+                "Description": "A family evicted from their home stays in a house with relatives, Father believed to be possessed by the spirit of the former owner"
+            }
+        }
+    ]
+}
