@@ -32,6 +32,22 @@
           ],
           "type": "Point"
         }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Story": 3,
+          "Location": "Lincoln City, Oregon",
+          "Classification": "Ghost",
+          "Description": "A Mother and Daughter and their dog spend the night in a Penny Saver Hotel to seek shelter from the storm"
+        },
+        "geometry": {
+          "coordinates": [
+            -124.00976140923265,
+            44.959371262132976
+          ],
+          "type": "Point"
+        }
       }
     ]
   }
