@@ -9,6 +9,8 @@
             },
             "properties": {
                 "Story": 1,
+                "latitude": 48.02,
+                "longitude": -115.03,
                 "Location": "Lower Thompson Lake",
                 "Classification": "Cryptid",
                 "Description": "Couple is camping when a strange presence harasses them and their dogs outside of their tent"
@@ -22,6 +24,8 @@
             },
             "properties": {
                 "Story": 2,
+                "latitude": 33.09,
+                "longitude": -86.83,
                 "Location": "Rural Alabama, 30 minutes from Georgia",
                 "Classification": "Ghost",
                 "Description": "A family evicted from their home stays in a house with relatives, Father believed to be possessed by the spirit of the former owner"
