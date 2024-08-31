@@ -48,6 +48,22 @@
           ],
           "type": "Point"
         }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Story": 4,
+          "Location": "Appalachia near Lexington, VA",
+          "Classification": "Ghost",
+          "Description": "A son out on a hunting/camping trip with his dad and some buddies sees something in the woods that unnerves him"
+        },
+        "geometry": {
+          "coordinates": [
+             -79.490040767976,
+             37.780284042781076
+          ],
+          "type": "Point"
+        }
       }
     ]
   }
