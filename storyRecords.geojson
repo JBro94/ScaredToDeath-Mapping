@@ -64,6 +64,38 @@
           ],
           "type": "Point"
         }
-      }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Story": 5,
+          "Location": "St. Louis, MO",
+          "Classification": "Ghost",
+          "Description": "A young child living in a new house that used to be a butcher shop is haunted by the butcher entitiy"
+        },
+        "geometry": {
+          "coordinates": [
+            -90.1960834628419,
+            38.622797033920115
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Story": 6,
+          "Location": "St. Louis, MO",
+          "Classification": "Ghost",
+          "Description": "A young child living in a new house that used to be a butcher shop is haunted by the butcher entitiy"
+        },
+        "geometry": {
+          "coordinates": [
+            -90.1960834628419,
+            38.622797033920115
+          ],
+          "type": "Point"
+        }
+      } 
     ]
   }
