@@ -4,7 +4,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Story": 1,
+          "entry": 1,
+          "episode": 157,
           "Location": "Lower Thompson Lake",
           "Classification": "Cryptid",
           "Description": "Couple is camping when a strange presence harasses them and their dogs outside of their tent"
@@ -20,7 +21,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Story": 2,
+          "entry": 2,
+          "episode": 157,
           "Location": "Rural Alabama, 30 minutes from Georgia",
           "Classification": "Ghost",
           "Description": "A family evicted from their home stays in a house with relatives, Father believed to be possessed by the spirit of the former owner"
@@ -36,7 +38,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Story": 3,
+          "entry": 3,
+          "episode": 158,
           "Location": "Lincoln City, Oregon",
           "Classification": "Ghost",
           "Description": "A Mother and Daughter and their dog spend the night in a Penny Saver Hotel to seek shelter from the storm"
@@ -52,7 +55,8 @@
       {
         "type": "Feature",
         "properties": {
-          "Story": 4,
+          "entry": 4,
+          "episode": 158, 
           "Location": "Appalachia near Lexington, VA",
           "Classification": "Ghost",
           "Description": "A son out on a hunting/camping trip with his dad and some buddies sees something in the woods that unnerves him"
@@ -68,7 +72,25 @@
       {
         "type": "Feature",
         "properties": {
-          "Story": 5,
+          "entry": 5,
+          "episode": 159,
+          "Location": "on the road from Truth or Consequences, NM about an hour south of Raton, NM",
+          "Classification": "Unknown",
+          "Description": "A son and mother on their way back from visiting family are chased by a black spot, unknown entity, on the road"
+        },
+        "geometry": {
+          "coordinates": [
+            -104.84452693316993,
+            35.88564098591948 
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "entry": 6,
+          "episode": 159,
           "Location": "St. Louis, MO",
           "Classification": "Ghost",
           "Description": "A young child living in a new house that used to be a butcher shop is haunted by the butcher entitiy"
@@ -84,18 +106,53 @@
       {
         "type": "Feature",
         "properties": {
-          "Story": 6,
-          "Location": "St. Louis, MO",
+          "entry": 7,
+          "episode": 162,
+          "Location": "Georgia",
           "Classification": "Ghost",
-          "Description": "A young child living in a new house that used to be a butcher shop is haunted by the butcher entitiy"
+          "Description": "A couple is harrassed by a spirit that moonlights as a doppelganger that apparently follows them from Georgia to Costa Rica"
         },
         "geometry": {
           "coordinates": [
-            -90.1960834628419,
-            38.622797033920115
+            -83.43690345453393,
+            32.662384325565235
           ],
           "type": "Point"
         }
-      } 
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "entry": 8,
+          "episode": 163, 
+          "Location": "Massachusetts",
+          "Classification": "Ghost",
+          "Description": "A young girl is helped by a motherly ghost who seems to protect her from dark presence"
+        },
+        "geometry": {
+          "coordinates": [
+            -71.92718824661692, 
+            42.40254217901791
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 8,
+          "episode": 164,
+          "Location": "Connecticut, beach town just 45 minutes outside of New York",
+          "Classification": "Ghost",
+          "Description": "Sally, a nanny working part time for a friend of the family experiences an encounter in a partially rennovated house from the 1800s"
+        },
+        "geometry": {
+          "coordinates": [
+            -73.42550360746414, 
+            41.11555385537172
+          ],
+          "type": "Point"
+        }
+      }
     ]
   }
