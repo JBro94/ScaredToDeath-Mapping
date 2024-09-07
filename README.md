@@ -12,7 +12,7 @@ Title
 Location
 Latitude & Longitude
 Short Description of the story
-Classification: Ghost, Demon, Cryptid, Alien
+Classification: Ghost, Demon, Cryptid, Alien, or unknown for all other paranormal encounters
 
 the data will then be exported to a shapefile that can be opened in qGIS. Qgis will then project the shapefile onto a base map of the United States.
 

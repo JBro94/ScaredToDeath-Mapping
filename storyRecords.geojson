@@ -153,6 +153,40 @@
           ],
           "type": "Point"
         }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 9,
+          "episode": 165,
+          "Location": "small town in Iowa",
+          "Classification": "Ghost",
+          "Description": "A young man who works in a funeral home has an encounter working late one night with a spirit who smells of tobacco"
+        },
+        "geometry": {
+          "coordinates": [
+            -93.39790,
+            42.06706493476642
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 10,
+          "episode": 165,
+          "Location": "suburbs of Pittsburg, PA",
+          "Classification": "Ghost",
+          "Description": "six years old with the ability to see spirits, she witnessed a scary old lady apparition in the house her aunt and cousin recently moved into"
+        },
+        "geometry": {
+          "coordinates": [
+            -80.00247614050734,
+            40.44179165886578
+          ],
+          "type": "Point"
+        }
       }
     ]
   }
