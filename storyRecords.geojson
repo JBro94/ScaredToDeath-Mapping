@@ -187,6 +187,74 @@
           ],
           "type": "Point"
         }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 11,
+          "episode": 165,
+          "Location": "Salt Lake City, UT",
+          "Classification": "Unknown",
+          "Description": "a researcher's roommates conduct a pagan ritual which is beleived to lead to a dark enitity harassing the group"
+        },
+        "geometry": {
+          "coordinates": [
+            -80.00247614050734,
+            40.44179165886578
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 12,
+          "episode": 167,
+          "Location": "Seeley Lake, Bob Marshall Wilderness, Lincoln, Montana",
+          "Classification": "Alien",
+          "Description": "the story teller shares the abduction tale their grandfather had on a camping trip"
+        },
+        "geometry": {
+          "coordinates": [
+            -113.48500188218088,
+            47.1794126464919
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 13,
+          "episode": 168,
+          "Location": "Memphis, TN",
+          "Classification": "Ghost",
+          "Description": "a young couple moves into a townhome in downtown Memphis and encounter a presence that proceeds to scare them"
+        },
+        "geometry": {
+          "coordinates": [
+            -90.03608436322348,
+            35.15153450944205
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 14,
+          "episode": 168,
+          "Location": "Lakewood, OH",
+          "Classification": "Ghost",
+          "Description": "a nanny hears the presence of children in a family's house she stays at, but it is not the children she cares for"
+        },
+        "geometry": {
+          "coordinates": [
+            -81.79726496353547,
+            41.48241722728863
+          ],
+          "type": "Point"
+        }
       }
     ]
   }
