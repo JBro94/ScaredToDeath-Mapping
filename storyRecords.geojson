@@ -199,8 +199,8 @@
         },
         "geometry": {
           "coordinates": [
-            -80.00247614050734,
-            40.44179165886578
+            -111.89782574962003,
+            40.760746960544516 
           ],
           "type": "Point"
         }
@@ -295,7 +295,7 @@
         "properties" : {
           "entry": 17,
           "episode": 175,
-          "State": "Wisonsin",
+          "State": "Wisconsin",
           "Classification": "Ghost",
           "Description": "a young couple and two of their friends play with a Ouija Board"
         },
