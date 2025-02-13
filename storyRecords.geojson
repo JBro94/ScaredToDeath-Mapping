@@ -374,6 +374,106 @@
           ],
           "type": "Point"
         }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 22,
+          "episode": 180,
+          "State": "Kansas",
+          "Classification": "Ghost",
+          "Description": "A young girl and her siblings share a basement room where they are plagued bythe presence of an old woman who died previously in the house"
+        },
+        "geometry": {
+          "coordinates": [
+            -98.58333, 
+            39.83333
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 23,
+          "episode": 182,
+          "State": "Arizona",
+          "Classification": "Ghost",
+          "Description": "Driving down the road between Arizona and Utah, a couple keeps seeing an old farmer who gives them unease"
+        },
+        "geometry": {
+          "coordinates": [
+            -111.572962, 
+            36.994729
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 24,
+          "episode": 182,
+          "State": "Texas",
+          "Classification": "Ghost",
+          "Description": "On a drive from east Texas to Dallas, a driver gets lost on the road and keeps seeing the same broken down shed all while driving straight"
+        },
+        "geometry": {
+          "coordinates": [
+            -94.872621, 
+            31.529403
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 25,
+          "episode": 184,
+          "State": "Texas",
+          "Classification": "Ghost",
+          "Description": "A group of friends tour Jefferson Davis Hospital in Houston and have a strange encounter"
+        },
+        "geometry": {
+          "coordinates": [
+            -95.368381, 
+            29.7686627
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 26,
+          "episode": 178,
+          "State": "Nebraska",
+          "Classification": "Alien",
+          "Description": "A woman recounts the tale of a possible aliens as she wanders outside to use the outhouse, possibly seeign the same beings as her grandmother years previously"
+        },
+        "geometry": {
+          "coordinates": [
+            -94.44455313094718, 
+            41.06990924154739
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 27,
+          "episode": 184,
+          "State": "Texas",
+          "Classification": "Alien",
+          "Description": "A woman recounts the tale of a possible aliens as she wanders outside to use the outhouse, possibly seeign the same beings as her grandmother years previously"
+        },
+        "geometry": {
+          "coordinates": [
+            -99.44455313094718, 
+            43.06990924154739
+          ],
+          "type": "Point"
+        }
       }
-    ]
-  }
