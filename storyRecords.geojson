@@ -140,7 +140,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 8,
+          "entry": 9,
           "episode": 164,
           "State": "Connecticut",
           "Classification": "Ghost",
@@ -157,7 +157,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 9,
+          "entry": 10,
           "episode": 165,
           "State": "Iowa",
           "Classification": "Ghost",
@@ -174,7 +174,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 10,
+          "entry": 11,
           "episode": 165,
           "State": "Pennsylvania",
           "Classification": "Ghost",
@@ -191,7 +191,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 11,
+          "entry": 12,
           "episode": 165,
           "State": "Utah",
           "Classification": "Unknown",
@@ -208,7 +208,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 12,
+          "entry": 13,
           "episode": 167,
           "State": "Montana",
           "Classification": "Alien",
@@ -225,7 +225,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 13,
+          "entry": 14,
           "episode": 168,
           "State": "Tennessee",
           "Classification": "Ghost",
@@ -242,7 +242,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 14,
+          "entry": 15,
           "episode": 168,
           "State": "Ohio",
           "Classification": "Ghost",
@@ -259,7 +259,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 15,
+          "entry": 16,
           "episode": 174,
           "State": "Washington",
           "Classification": "Ghost",
@@ -276,7 +276,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 16,
+          "entry": 17,
           "episode": 174,
           "State": "South Carolina",
           "Classification": "Demon",
@@ -293,7 +293,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 17,
+          "entry": 18,
           "episode": 175,
           "State": "Wisconsin",
           "Classification": "Ghost",
@@ -310,7 +310,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 18,
+          "entry": 19,
           "episode": 176,
           "State": "Washington",
           "Classification": "Ghost",
@@ -327,7 +327,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 19,
+          "entry": 20,
           "episode": 177,
           "State": "Illinois",
           "Classification": "Demon",
@@ -344,7 +344,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 20,
+          "entry": 21,
           "episode": 177,
           "State": "Colorado",
           "Classification": "Ghost",
@@ -361,7 +361,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 21,
+          "entry": 22,
           "episode": 178,
           "State": "Nebraska",
           "Classification": "Alien",
@@ -378,7 +378,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 22,
+          "entry": 23,
           "episode": 180,
           "State": "Kansas",
           "Classification": "Ghost",
@@ -395,7 +395,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 23,
+          "entry": 24,
           "episode": 182,
           "State": "Arizona",
           "Classification": "Ghost",
@@ -412,7 +412,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 24,
+          "entry": 25,
           "episode": 182,
           "State": "Texas",
           "Classification": "Ghost",
@@ -429,7 +429,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 25,
+          "entry": 26,
           "episode": 184,
           "State": "Texas",
           "Classification": "Ghost",
@@ -446,16 +446,16 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 26,
-          "episode": 178,
-          "State": "Nebraska",
-          "Classification": "Alien",
-          "Description": "A woman recounts the tale of a possible aliens as she wanders outside to use the outhouse, possibly seeign the same beings as her grandmother years previously"
+          "entry": 27,
+          "episode": 185,
+          "State": "Colorado",
+          "Classification": "Unknown",
+          "Description": "A woman goes for a run early before work with her dog and is pursued by an enveloping darkness"
         },
         "geometry": {
           "coordinates": [
-            -94.44455313094718, 
-            41.06990924154739
+            -104.801583, 
+            38.854475
           ],
           "type": "Point"
         }
@@ -463,19 +463,36 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 27,
-          "episode": 184,
-          "State": "Texas",
-          "Classification": "Alien",
-          "Description": "A woman recounts the tale of a possible aliens as she wanders outside to use the outhouse, possibly seeign the same beings as her grandmother years previously"
+          "entry": 28,
+          "episode": 185,
+          "State": "New York",
+          "Classification": "Unkown",
+          "Description": "the story teller recounts a nightmare where they are continually stranded in dark tunnels seemingly the home of an unknown creature within the city of Rochester"
         },
         "geometry": {
           "coordinates": [
-            -99.44455313094718, 
-            43.06990924154739
+            -77.6088, 
+            43.1566
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 29,
+          "episode": 185,
+          "State": "Arizona",
+          "Classification": "Ghost",
+          "Description": "A couple frequent the Domes, a popular sight for ghost hunters and occult rituals, where they encounter a dark presence of a young girl with a gaping black mouth"
+        },
+        "geometry": {
+          "coordinates": [
+            -111.773289, 
+            32.812756
           ],
           "type": "Point"
         }
       }
-]
-}
+    ]
+  }
