@@ -466,7 +466,7 @@
           "entry": 28,
           "episode": 185,
           "Location": "New York",
-          "Classification": "Unkown",
+          "Classification": "Unknown",
           "Description": "the story teller recounts a nightmare where they are continually stranded in dark tunnels seemingly the home of an unknown creature within the city of Rochester"
         },
         "geometry": {
@@ -531,7 +531,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 31,
+          "entry": 32,
           "episode": 188,
           "Location": "Maryland",
           "Classification": "Ghost",
@@ -548,7 +548,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 32,
+          "entry": 33,
           "episode": 189,
           "Location": "Connecticut",
           "Classification": "Alien",
@@ -565,16 +565,16 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 33,
-          "episode": 190,
-          "Location": "Arizona",
+          "entry": 34,
+          "episode": 191,
+          "Location": "Missouri",
           "Classification": "Ghost",
-          "Description": "A couple frequent the Domes, a popular sight for ghost hunters and occult rituals, where they encounter a dark presence of a young girl with a gaping black mouth"
+          "Description": "A couple moves into a house where a trunk belonging to the previous owners seems to tether a spirit to them"
         },
         "geometry": {
           "coordinates": [
-            -114.773289, 
-            37.812756
+            -89.8612, 
+            37.7242
           ],
           "type": "Point"
         }
