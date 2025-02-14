@@ -6,7 +6,7 @@
         "properties": {
           "entry": 1,
           "episode": 157,
-          "State": "Montana",
+          "Location": "Montana",
           "Classification": "Cryptid",
           "Description": "Couple is camping when a strange presence harasses them and their dogs outside of their tent"
         },
@@ -23,7 +23,7 @@
         "properties": {
           "entry": 2,
           "episode": 157,
-          "State": "Alabama",
+          "Location": "Alabama",
           "Classification": "Ghost",
           "Description": "A family evicted from their home stays in a house with relatives, Father believed to be possessed by the spirit of the former owner"
         },
@@ -40,7 +40,7 @@
         "properties": {
           "entry": 3,
           "episode": 158,
-          "State": "Oregon",
+          "Location": "Oregon",
           "Classification": "Ghost",
           "Description": "A Mother and Daughter and their dog spend the night in a Penny Saver Hotel to seek shelter from the storm"
         },
@@ -57,7 +57,7 @@
         "properties": {
           "entry": 4,
           "episode": 158, 
-          "State": "Virgina",
+          "Location": "Virgina",
           "Classification": "Ghost",
           "Description": "A son out on a hunting/camping trip with his dad and some buddies sees something in the woods that unnerves him"
         },
@@ -74,7 +74,7 @@
         "properties": {
           "entry": 5,
           "episode": 159,
-          "State": "New Mexico",
+          "Location": "New Mexico",
           "Classification": "Unknown",
           "Description": "A son and mother on their way back from visiting family are chased by a black spot, unknown entity, on the road"
         },
@@ -91,7 +91,7 @@
         "properties": {
           "entry": 6,
           "episode": 159,
-          "State": "Missouri",
+          "Location": "Missouri",
           "Classification": "Ghost",
           "Description": "A young child living in a new house that used to be a butcher shop is haunted by the butcher entitiy"
         },
@@ -108,7 +108,7 @@
         "properties": {
           "entry": 7,
           "episode": 162,
-          "State": "Georgia",
+          "Location": "Georgia",
           "Classification": "Ghost",
           "Description": "A couple is harrassed by a spirit that moonlights as a doppelganger that apparently follows them from Georgia to Costa Rica"
         },
@@ -125,7 +125,7 @@
         "properties": {
           "entry": 8,
           "episode": 163, 
-          "State": "Massachusetts",
+          "Location": "Massachusetts",
           "Classification": "Ghost",
           "Description": "A young girl is helped by a motherly ghost who seems to protect her from dark presence"
         },
@@ -142,7 +142,7 @@
         "properties" : {
           "entry": 9,
           "episode": 164,
-          "State": "Connecticut",
+          "Location": "Connecticut",
           "Classification": "Ghost",
           "Description": "Sally, a nanny working part time for a friend of the family experiences an encounter in a partially rennovated house from the 1800s"
         },
@@ -159,7 +159,7 @@
         "properties" : {
           "entry": 10,
           "episode": 165,
-          "State": "Iowa",
+          "Location": "Iowa",
           "Classification": "Ghost",
           "Description": "A young man who works in a funeral home has an encounter working late one night with a spirit who smells of tobacco"
         },
@@ -176,7 +176,7 @@
         "properties" : {
           "entry": 11,
           "episode": 165,
-          "State": "Pennsylvania",
+          "Location": "Pennsylvania",
           "Classification": "Ghost",
           "Description": "six years old with the ability to see spirits, she witnessed a scary old lady apparition in the house her aunt and cousin recently moved into"
         },
@@ -193,7 +193,7 @@
         "properties" : {
           "entry": 12,
           "episode": 165,
-          "State": "Utah",
+          "Location": "Utah",
           "Classification": "Unknown",
           "Description": "a researcher's roommates conduct a pagan ritual which is beleived to lead to a dark enitity harassing the group"
         },
@@ -210,7 +210,7 @@
         "properties" : {
           "entry": 13,
           "episode": 167,
-          "State": "Montana",
+          "Location": "Montana",
           "Classification": "Alien",
           "Description": "the story teller shares the abduction tale their grandfather had on a camping trip"
         },
@@ -227,7 +227,7 @@
         "properties" : {
           "entry": 14,
           "episode": 168,
-          "State": "Tennessee",
+          "Location": "Tennessee",
           "Classification": "Ghost",
           "Description": "a young couple moves into a townhome in downtown Memphis and encounter a presence that proceeds to scare them"
         },
@@ -244,7 +244,7 @@
         "properties" : {
           "entry": 15,
           "episode": 168,
-          "State": "Ohio",
+          "Location": "Ohio",
           "Classification": "Ghost",
           "Description": "a nanny hears the presence of children in a family's house she stays at, but it is not the children she cares for"
         },
@@ -261,7 +261,7 @@
         "properties" : {
           "entry": 16,
           "episode": 174,
-          "State": "Washington",
+          "Location": "Washington",
           "Classification": "Ghost",
           "Description": "An Emergency worker responds to a call of a submerged vehicle where a young girl is rescued but impossibly her mother seems to have passed well beforethe call was made to 911"
         },
@@ -278,7 +278,7 @@
         "properties" : {
           "entry": 17,
           "episode": 174,
-          "State": "South Carolina",
+          "Location": "South Carolina",
           "Classification": "Demon",
           "Description": "a demonic presence harasses two college students in a dorm with a long history"
         },
@@ -295,7 +295,7 @@
         "properties" : {
           "entry": 18,
           "episode": 175,
-          "State": "Wisconsin",
+          "Location": "Wisconsin",
           "Classification": "Ghost",
           "Description": "a young couple and two of their friends play with a Ouija Board"
         },
@@ -312,7 +312,7 @@
         "properties" : {
           "entry": 19,
           "episode": 176,
-          "State": "Washington",
+          "Location": "Washington",
           "Classification": "Ghost",
           "Description": "A chief engineer shares a story with a bartender in Colorado of a haunting in a hotel in Seattle"
         },
@@ -329,7 +329,7 @@
         "properties" : {
           "entry": 20,
           "episode": 177,
-          "State": "Illinois",
+          "Location": "Illinois",
           "Classification": "Demon",
           "Description": "A combat engineer suspects to be targeted by a demon he heard the story of in Afghanistan"
         },
@@ -346,7 +346,7 @@
         "properties" : {
           "entry": 21,
           "episode": 177,
-          "State": "Colorado",
+          "Location": "Colorado",
           "Classification": "Ghost",
           "Description": "An oil rig worker takes the train to visit his family in Denver, while passing through the Rockies he shares an encounter with others on the train"
         },
@@ -363,7 +363,7 @@
         "properties" : {
           "entry": 22,
           "episode": 178,
-          "State": "Nebraska",
+          "Location": "Nebraska",
           "Classification": "Alien",
           "Description": "A woman recounts the tale of a possible aliens as she wanders outside to use the outhouse, possibly seeign the same beings as her grandmother years previously"
         },
@@ -380,7 +380,7 @@
         "properties" : {
           "entry": 23,
           "episode": 180,
-          "State": "Kansas",
+          "Location": "Kansas",
           "Classification": "Ghost",
           "Description": "A young girl and her siblings share a basement room where they are plagued bythe presence of an old woman who died previously in the house"
         },
@@ -397,7 +397,7 @@
         "properties" : {
           "entry": 24,
           "episode": 182,
-          "State": "Arizona",
+          "Location": "Arizona",
           "Classification": "Ghost",
           "Description": "Driving down the road between Arizona and Utah, a couple keeps seeing an old farmer who gives them unease"
         },
@@ -414,7 +414,7 @@
         "properties" : {
           "entry": 25,
           "episode": 182,
-          "State": "Texas",
+          "Location": "Texas",
           "Classification": "Ghost",
           "Description": "On a drive from east Texas to Dallas, a driver gets lost on the road and keeps seeing the same broken down shed all while driving straight"
         },
@@ -431,7 +431,7 @@
         "properties" : {
           "entry": 26,
           "episode": 184,
-          "State": "Texas",
+          "Location": "Texas",
           "Classification": "Ghost",
           "Description": "A group of friends tour Jefferson Davis Hospital in Houston and have a strange encounter"
         },
@@ -448,7 +448,7 @@
         "properties" : {
           "entry": 27,
           "episode": 185,
-          "State": "Colorado",
+          "Location": "Colorado",
           "Classification": "Unknown",
           "Description": "A woman goes for a run early before work with her dog and is pursued by an enveloping darkness"
         },
@@ -465,7 +465,7 @@
         "properties" : {
           "entry": 28,
           "episode": 185,
-          "State": "New York",
+          "Location": "New York",
           "Classification": "Unkown",
           "Description": "the story teller recounts a nightmare where they are continually stranded in dark tunnels seemingly the home of an unknown creature within the city of Rochester"
         },
@@ -482,7 +482,7 @@
         "properties" : {
           "entry": 29,
           "episode": 185,
-          "State": "Arizona",
+          "Location": "Arizona",
           "Classification": "Ghost",
           "Description": "A couple frequent the Domes, a popular sight for ghost hunters and occult rituals, where they encounter a dark presence of a young girl with a gaping black mouth"
         },
@@ -490,6 +490,91 @@
           "coordinates": [
             -111.773289, 
             32.812756
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 30,
+          "episode": 186,
+          "Location": "British Columbia",
+          "Classification": "Cryptid",
+          "Description": "a young child creates a tulpa that they continue to see throughout their life and worry it has more sinister intentions"
+        },
+        "geometry": {
+          "coordinates": [
+            -122.3045, 
+            49.0504
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 31,
+          "episode": 186,
+          "Location": "Nevada",
+          "Classification": "Ghost",
+          "Description": "A young child senses unsettling feelings and imagery while helping their mother clean an old house"
+        },
+        "geometry": {
+          "coordinates": [
+            -115.1391, 
+            36.1716
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 31,
+          "episode": 188,
+          "Location": "Maryland",
+          "Classification": "Ghost",
+          "Description": "A worker rents a house from a friend during a construction gig and expriences the paranormal within the old cabin by a lake"
+        },
+        "geometry": {
+          "coordinates": [
+            -76.4390, 
+            38.3583
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 32,
+          "episode": 189,
+          "Location": "Connecticut",
+          "Classification": "Alien",
+          "Description": "A Family continually sees a strange craft near their neighborhood, they happen to live next to a defense contractor factory"
+        },
+        "geometry": {
+          "coordinates": [
+            -72.6128, 
+            41.7634
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties" : {
+          "entry": 33,
+          "episode": 190,
+          "Location": "Arizona",
+          "Classification": "Ghost",
+          "Description": "A couple frequent the Domes, a popular sight for ghost hunters and occult rituals, where they encounter a dark presence of a young girl with a gaping black mouth"
+        },
+        "geometry": {
+          "coordinates": [
+            -114.773289, 
+            37.812756
           ],
           "type": "Point"
         }
