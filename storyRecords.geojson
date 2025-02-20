@@ -4,7 +4,7 @@
       {
         "type": "Feature",
         "properties": {
-          "entry": 1,
+          "story": 1,
           "episode": 157,
           "Location": "Montana",
           "Classification": "Cryptid",
@@ -21,7 +21,7 @@
       {
         "type": "Feature",
         "properties": {
-          "entry": 2,
+          "story": 2,
           "episode": 157,
           "Location": "Alabama",
           "Classification": "Ghost",
@@ -38,7 +38,7 @@
       {
         "type": "Feature",
         "properties": {
-          "entry": 3,
+          "story": 3,
           "episode": 158,
           "Location": "Oregon",
           "Classification": "Ghost",
@@ -55,7 +55,7 @@
       {
         "type": "Feature",
         "properties": {
-          "entry": 4,
+          "story": 4,
           "episode": 158, 
           "Location": "Virgina",
           "Classification": "Ghost",
@@ -72,7 +72,7 @@
       {
         "type": "Feature",
         "properties": {
-          "entry": 5,
+          "story": 5,
           "episode": 159,
           "Location": "New Mexico",
           "Classification": "Unknown",
@@ -89,7 +89,7 @@
       {
         "type": "Feature",
         "properties": {
-          "entry": 6,
+          "story": 6,
           "episode": 159,
           "Location": "Missouri",
           "Classification": "Ghost",
@@ -106,7 +106,7 @@
       {
         "type": "Feature",
         "properties": {
-          "entry": 7,
+          "story": 7,
           "episode": 162,
           "Location": "Georgia",
           "Classification": "Ghost",
@@ -123,7 +123,7 @@
       {
         "type": "Feature",
         "properties": {
-          "entry": 8,
+          "story": 8,
           "episode": 163, 
           "Location": "Massachusetts",
           "Classification": "Ghost",
@@ -140,7 +140,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 9,
+          "story": 9,
           "episode": 164,
           "Location": "Connecticut",
           "Classification": "Ghost",
@@ -157,7 +157,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 10,
+          "story": 10,
           "episode": 165,
           "Location": "Iowa",
           "Classification": "Ghost",
@@ -174,7 +174,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 11,
+          "story": 11,
           "episode": 165,
           "Location": "Pennsylvania",
           "Classification": "Ghost",
@@ -191,7 +191,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 12,
+          "story": 12,
           "episode": 165,
           "Location": "Utah",
           "Classification": "Unknown",
@@ -208,7 +208,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 13,
+          "story": 13,
           "episode": 167,
           "Location": "Montana",
           "Classification": "Alien",
@@ -225,7 +225,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 14,
+          "story": 14,
           "episode": 168,
           "Location": "Tennessee",
           "Classification": "Ghost",
@@ -242,7 +242,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 15,
+          "story": 15,
           "episode": 168,
           "Location": "Ohio",
           "Classification": "Ghost",
@@ -259,7 +259,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 16,
+          "story": 16,
           "episode": 174,
           "Location": "Washington",
           "Classification": "Ghost",
@@ -276,7 +276,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 17,
+          "story": 17,
           "episode": 174,
           "Location": "South Carolina",
           "Classification": "Demon",
@@ -293,7 +293,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 18,
+          "story": 18,
           "episode": 175,
           "Location": "Wisconsin",
           "Classification": "Ghost",
@@ -310,7 +310,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 19,
+          "story": 19,
           "episode": 176,
           "Location": "Washington",
           "Classification": "Ghost",
@@ -327,7 +327,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 20,
+          "story": 20,
           "episode": 177,
           "Location": "Illinois",
           "Classification": "Demon",
@@ -344,7 +344,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 21,
+          "story": 21,
           "episode": 177,
           "Location": "Colorado",
           "Classification": "Ghost",
@@ -361,7 +361,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 22,
+          "story": 22,
           "episode": 178,
           "Location": "Nebraska",
           "Classification": "Alien",
@@ -378,7 +378,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 23,
+          "story": 23,
           "episode": 180,
           "Location": "Kansas",
           "Classification": "Ghost",
@@ -395,7 +395,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 24,
+          "story": 24,
           "episode": 182,
           "Location": "Arizona",
           "Classification": "Ghost",
@@ -412,7 +412,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 25,
+          "story": 25,
           "episode": 182,
           "Location": "Texas",
           "Classification": "Ghost",
@@ -429,7 +429,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 26,
+          "story": 26,
           "episode": 184,
           "Location": "Texas",
           "Classification": "Ghost",
@@ -446,7 +446,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 27,
+          "story": 27,
           "episode": 185,
           "Location": "Colorado",
           "Classification": "Unknown",
@@ -463,7 +463,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 28,
+          "story": 28,
           "episode": 185,
           "Location": "New York",
           "Classification": "Unknown",
@@ -480,7 +480,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 29,
+          "story": 29,
           "episode": 185,
           "Location": "Arizona",
           "Classification": "Ghost",
@@ -497,7 +497,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 30,
+          "story": 30,
           "episode": 186,
           "Location": "British Columbia",
           "Classification": "Cryptid",
@@ -514,7 +514,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 31,
+          "story": 31,
           "episode": 186,
           "Location": "Nevada",
           "Classification": "Ghost",
@@ -531,7 +531,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 32,
+          "story": 32,
           "episode": 188,
           "Location": "Maryland",
           "Classification": "Ghost",
@@ -548,7 +548,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 33,
+          "story": 33,
           "episode": 189,
           "Location": "Connecticut",
           "Classification": "Alien",
@@ -565,7 +565,7 @@
       {
         "type": "Feature",
         "properties" : {
-          "entry": 34,
+          "story": 34,
           "episode": 191,
           "Location": "Missouri",
           "Classification": "Ghost",
