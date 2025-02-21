@@ -1,583 +1,617 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "story": 1,
-          "episode": 157,
-          "Location": "Montana",
-          "Classification": "Cryptid",
-          "Description": "Couple is camping when a strange presence harasses them and their dogs outside of their tent"
-        },
-        "geometry": {
-          "coordinates": [
-            -115.03353737078865,
-            48.01954123107632
-          ],
-          "type": "Point"
-        }
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "story": 1,
+        "episode": 157,
+        "Location": "Montana",
+        "Classification": "Cryptid",
+        "Description": "Couple is camping when a strange presence harasses them and their dogs outside of their tent"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "story": 2,
-          "episode": 157,
-          "Location": "Alabama",
-          "Classification": "Ghost",
-          "Description": "A family evicted from their home stays in a house with relatives, Father believed to be possessed by the spirit of the former owner"
-        },
-        "geometry": {
-          "coordinates": [
-            -86.82617317656685,
-            33.09456945513074
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "story": 3,
-          "episode": 158,
-          "Location": "Oregon",
-          "Classification": "Ghost",
-          "Description": "A Mother and Daughter and their dog spend the night in a Penny Saver Hotel to seek shelter from the storm"
-        },
-        "geometry": {
-          "coordinates": [
-            -124.00976140923265,
-            44.959371262132976
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "story": 4,
-          "episode": 158, 
-          "Location": "Virgina",
-          "Classification": "Ghost",
-          "Description": "A son out on a hunting/camping trip with his dad and some buddies sees something in the woods that unnerves him"
-        },
-        "geometry": {
-          "coordinates": [
-             -79.490040767976,
-             37.780284042781076
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "story": 5,
-          "episode": 159,
-          "Location": "New Mexico",
-          "Classification": "Unknown",
-          "Description": "A son and mother on their way back from visiting family are chased by a black spot, unknown entity, on the road"
-        },
-        "geometry": {
-          "coordinates": [
-            -104.84452693316993,
-            35.88564098591948 
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "story": 6,
-          "episode": 159,
-          "Location": "Missouri",
-          "Classification": "Ghost",
-          "Description": "A young child living in a new house that used to be a butcher shop is haunted by the butcher entitiy"
-        },
-        "geometry": {
-          "coordinates": [
-            -90.1960834628419,
-            38.622797033920115
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "story": 7,
-          "episode": 162,
-          "Location": "Georgia",
-          "Classification": "Ghost",
-          "Description": "A couple is harrassed by a spirit that moonlights as a doppelganger that apparently follows them from Georgia to Costa Rica"
-        },
-        "geometry": {
-          "coordinates": [
-            -83.43690345453393,
-            32.662384325565235
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "story": 8,
-          "episode": 163, 
-          "Location": "Massachusetts",
-          "Classification": "Ghost",
-          "Description": "A young girl is helped by a motherly ghost who seems to protect her from dark presence"
-        },
-        "geometry": {
-          "coordinates": [
-            -71.92718824661692, 
-            42.40254217901791
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 9,
-          "episode": 164,
-          "Location": "Connecticut",
-          "Classification": "Ghost",
-          "Description": "Sally, a nanny working part time for a friend of the family experiences an encounter in a partially rennovated house from the 1800s"
-        },
-        "geometry": {
-          "coordinates": [
-            -73.42550360746414, 
-            41.11555385537172
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 10,
-          "episode": 165,
-          "Location": "Iowa",
-          "Classification": "Ghost",
-          "Description": "A young man who works in a funeral home has an encounter working late one night with a spirit who smells of tobacco"
-        },
-        "geometry": {
-          "coordinates": [
-            -93.39790,
-            42.06706493476642
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 11,
-          "episode": 165,
-          "Location": "Pennsylvania",
-          "Classification": "Ghost",
-          "Description": "six years old with the ability to see spirits, she witnessed a scary old lady apparition in the house her aunt and cousin recently moved into"
-        },
-        "geometry": {
-          "coordinates": [
-            -80.00247614050734,
-            40.44179165886578
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 12,
-          "episode": 165,
-          "Location": "Utah",
-          "Classification": "Unknown",
-          "Description": "a researcher's roommates conduct a pagan ritual which is beleived to lead to a dark enitity harassing the group"
-        },
-        "geometry": {
-          "coordinates": [
-            -111.89782574962003,
-            40.760746960544516 
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 13,
-          "episode": 167,
-          "Location": "Montana",
-          "Classification": "Alien",
-          "Description": "the story teller shares the abduction tale their grandfather had on a camping trip"
-        },
-        "geometry": {
-          "coordinates": [
-            -113.48500188218088,
-            47.1794126464919
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 14,
-          "episode": 168,
-          "Location": "Tennessee",
-          "Classification": "Ghost",
-          "Description": "a young couple moves into a townhome in downtown Memphis and encounter a presence that proceeds to scare them"
-        },
-        "geometry": {
-          "coordinates": [
-            -90.03608436322348,
-            35.15153450944205
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 15,
-          "episode": 168,
-          "Location": "Ohio",
-          "Classification": "Ghost",
-          "Description": "a nanny hears the presence of children in a family's house she stays at, but it is not the children she cares for"
-        },
-        "geometry": {
-          "coordinates": [
-            -81.79726496353547,
-            41.48241722728863
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 16,
-          "episode": 174,
-          "Location": "Washington",
-          "Classification": "Ghost",
-          "Description": "An Emergency worker responds to a call of a submerged vehicle where a young girl is rescued but impossibly her mother seems to have passed well beforethe call was made to 911"
-        },
-        "geometry": {
-          "coordinates": [
-            -120.52182739428507,
-            47.38689399612475
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 17,
-          "episode": 174,
-          "Location": "South Carolina",
-          "Classification": "Demon",
-          "Description": "a demonic presence harasses two college students in a dorm with a long history"
-        },
-        "geometry": {
-          "coordinates": [
-            -79.9349778948439,
-            32.78617526053983
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 18,
-          "episode": 175,
-          "Location": "Wisconsin",
-          "Classification": "Ghost",
-          "Description": "a young couple and two of their friends play with a Ouija Board"
-        },
-        "geometry": {
-          "coordinates": [
-            -90.12973542066354,
-            44.438418117128876
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 19,
-          "episode": 176,
-          "Location": "Washington",
-          "Classification": "Ghost",
-          "Description": "A chief engineer shares a story with a bartender in Colorado of a haunting in a hotel in Seattle"
-        },
-        "geometry": {
-          "coordinates": [
-            -122.35642932838464,
-            47.63231471919698
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 20,
-          "episode": 177,
-          "Location": "Illinois",
-          "Classification": "Demon",
-          "Description": "A combat engineer suspects to be targeted by a demon he heard the story of in Afghanistan"
-        },
-        "geometry": {
-          "coordinates": [
-            -89.18317818633486,
-            40.0531283195771
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 21,
-          "episode": 177,
-          "Location": "Colorado",
-          "Classification": "Ghost",
-          "Description": "An oil rig worker takes the train to visit his family in Denver, while passing through the Rockies he shares an encounter with others on the train"
-        },
-        "geometry": {
-          "coordinates": [
-            -107.32717664583012,
-            39.54575303596269 
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 22,
-          "episode": 178,
-          "Location": "Nebraska",
-          "Classification": "Alien",
-          "Description": "A woman recounts the tale of a possible aliens as she wanders outside to use the outhouse, possibly seeign the same beings as her grandmother years previously"
-        },
-        "geometry": {
-          "coordinates": [
-            -98.44455313094718, 
-            41.06990924154739
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 23,
-          "episode": 180,
-          "Location": "Kansas",
-          "Classification": "Ghost",
-          "Description": "A young girl and her siblings share a basement room where they are plagued bythe presence of an old woman who died previously in the house"
-        },
-        "geometry": {
-          "coordinates": [
-            -98.58333, 
-            39.83333
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 24,
-          "episode": 182,
-          "Location": "Arizona",
-          "Classification": "Ghost",
-          "Description": "Driving down the road between Arizona and Utah, a couple keeps seeing an old farmer who gives them unease"
-        },
-        "geometry": {
-          "coordinates": [
-            -111.572962, 
-            36.994729
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 25,
-          "episode": 182,
-          "Location": "Texas",
-          "Classification": "Ghost",
-          "Description": "On a drive from east Texas to Dallas, a driver gets lost on the road and keeps seeing the same broken down shed all while driving straight"
-        },
-        "geometry": {
-          "coordinates": [
-            -94.872621, 
-            31.529403
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 26,
-          "episode": 184,
-          "Location": "Texas",
-          "Classification": "Ghost",
-          "Description": "A group of friends tour Jefferson Davis Hospital in Houston and have a strange encounter"
-        },
-        "geometry": {
-          "coordinates": [
-            -95.368381, 
-            29.7686627
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 27,
-          "episode": 185,
-          "Location": "Colorado",
-          "Classification": "Unknown",
-          "Description": "A woman goes for a run early before work with her dog and is pursued by an enveloping darkness"
-        },
-        "geometry": {
-          "coordinates": [
-            -104.801583, 
-            38.854475
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 28,
-          "episode": 185,
-          "Location": "New York",
-          "Classification": "Unknown",
-          "Description": "the story teller recounts a nightmare where they are continually stranded in dark tunnels seemingly the home of an unknown creature within the city of Rochester"
-        },
-        "geometry": {
-          "coordinates": [
-            -77.6088, 
-            43.1566
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 29,
-          "episode": 185,
-          "Location": "Arizona",
-          "Classification": "Ghost",
-          "Description": "A couple frequent the Domes, a popular sight for ghost hunters and occult rituals, where they encounter a dark presence of a young girl with a gaping black mouth"
-        },
-        "geometry": {
-          "coordinates": [
-            -111.773289, 
-            32.812756
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 30,
-          "episode": 186,
-          "Location": "British Columbia",
-          "Classification": "Cryptid",
-          "Description": "a young child creates a tulpa that they continue to see throughout their life and worry it has more sinister intentions"
-        },
-        "geometry": {
-          "coordinates": [
-            -122.3045, 
-            49.0504
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 31,
-          "episode": 186,
-          "Location": "Nevada",
-          "Classification": "Ghost",
-          "Description": "A young child senses unsettling feelings and imagery while helping their mother clean an old house"
-        },
-        "geometry": {
-          "coordinates": [
-            -115.1391, 
-            36.1716
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 32,
-          "episode": 188,
-          "Location": "Maryland",
-          "Classification": "Ghost",
-          "Description": "A worker rents a house from a friend during a construction gig and expriences the paranormal within the old cabin by a lake"
-        },
-        "geometry": {
-          "coordinates": [
-            -76.4390, 
-            38.3583
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 33,
-          "episode": 189,
-          "Location": "Connecticut",
-          "Classification": "Alien",
-          "Description": "A Family continually sees a strange craft near their neighborhood, they happen to live next to a defense contractor factory"
-        },
-        "geometry": {
-          "coordinates": [
-            -72.6128, 
-            41.7634
-          ],
-          "type": "Point"
-        }
-      },
-      {
-        "type": "Feature",
-        "properties" : {
-          "story": 34,
-          "episode": 191,
-          "Location": "Missouri",
-          "Classification": "Ghost",
-          "Description": "A couple moves into a house where a trunk belonging to the previous owners seems to tether a spirit to them"
-        },
-        "geometry": {
-          "coordinates": [
-            -89.8612, 
-            37.7242
-          ],
-          "type": "Point"
-        }
+      "geometry": {
+        "coordinates": [
+          -115.03353737078865,
+          48.01954123107632
+        ],
+        "type": "Point"
       }
-    ]
-  }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "story": 2,
+        "episode": 157,
+        "Location": "Alabama",
+        "Classification": "Ghost",
+        "Description": "A family evicted from their home stays in a house with relatives, Father believed to be possessed by the spirit of the former owner"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.82617317656685,
+          33.09456945513074
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "story": 3,
+        "episode": 158,
+        "Location": "Oregon",
+        "Classification": "Ghost",
+        "Description": "A Mother and Daughter and their dog spend the night in a Penny Saver Hotel to seek shelter from the storm"
+      },
+      "geometry": {
+        "coordinates": [
+          -124.00976140923265,
+          44.959371262132976
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "story": 4,
+        "episode": 158, 
+        "Location": "Virgina",
+        "Classification": "Ghost",
+        "Description": "A son out on a hunting/camping trip with his dad and some buddies sees something in the woods that unnerves him"
+      },
+      "geometry": {
+        "coordinates": [
+           -79.490040767976,
+           37.780284042781076
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "story": 5,
+        "episode": 159,
+        "Location": "New Mexico",
+        "Classification": "Unknown",
+        "Description": "A son and mother on their way back from visiting family are chased by a black spot, unknown entity, on the road"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.84452693316993,
+          35.88564098591948 
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "story": 6,
+        "episode": 159,
+        "Location": "Missouri",
+        "Classification": "Ghost",
+        "Description": "A young child living in a new house that used to be a butcher shop is haunted by the butcher entitiy"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.1960834628419,
+          38.622797033920115
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "story": 9,
+        "episode": 161, 
+        "Location": "New Mexico",
+        "Classification": "Unknown",
+        "Description": "Darkness begins to envolope a driver as he makes his way to visit his brother"
+      },
+      "geometry": {
+        "coordinates": [
+          -108.58578899877836,
+          37.3484184974229
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "story": 10,
+        "episode": 162,
+        "Location": "Georgia",
+        "Classification": "Ghost",
+        "Description": "A couple is harrassed by a spirit that moonlights as a doppelganger that apparently follows them from Georgia to Costa Rica"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.43690345453393,
+          32.662384325565235
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "story": 13,
+        "episode": 163, 
+        "Location": "Massachusetts",
+        "Classification": "Ghost",
+        "Description": "A young girl is helped by a motherly ghost who seems to protect her from dark presence"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.92718824661692, 
+          42.40254217901791
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 14,
+        "episode": 164,
+        "Location": "Connecticut",
+        "Classification": "Ghost",
+        "Description": "Sally, a nanny working part time for a friend of the family experiences an encounter in a partially rennovated house from the 1800s"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.42550360746414, 
+          41.11555385537172
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 16,
+        "episode": 165,
+        "Location": "Iowa",
+        "Classification": "Ghost",
+        "Description": "A young man who works in a funeral home has an encounter working late one night with a spirit who smells of tobacco"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.39790,
+          42.06706493476642
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 17,
+        "episode": 165,
+        "Location": "Pennsylvania",
+        "Classification": "Ghost",
+        "Description": "six years old with the ability to see spirits, she witnessed a scary old lady apparition in the house her aunt and cousin recently moved into"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.00247614050734,
+          40.44179165886578
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 20,
+        "episode": 166,
+        "Location": "Utah",
+        "Classification": "Unknown",
+        "Description": "a researcher's roommates conduct a pagan ritual which is beleived to lead to a dark enitity harassing the group"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.89782574962003,
+          40.760746960544516 
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 22,
+        "episode": 167,
+        "Location": "Montana",
+        "Classification": "Alien",
+        "Description": "the story teller shares the abduction tale their grandfather had on a camping trip"
+      },
+      "geometry": {
+        "coordinates": [
+          -113.48500188218088,
+          47.1794126464919
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 23,
+        "episode": 168,
+        "Location": "Tennessee",
+        "Classification": "Ghost",
+        "Description": "a young couple moves into a townhome in downtown Memphis and encounter a presence that proceeds to scare them"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.03608436322348,
+          35.15153450944205
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 24,
+        "episode": 168,
+        "Location": "Ohio",
+        "Classification": "Ghost",
+        "Description": "a nanny hears the presence of children in a family's house she stays at, but it is not the children she cares for"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.79726496353547,
+          41.48241722728863
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 34,
+        "episode": 174,
+        "Location": "Washington",
+        "Classification": "Ghost",
+        "Description": "An Emergency worker responds to a call of a submerged vehicle where a young girl is rescued but impossibly her mother seems to have passed well beforethe call was made to 911"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.52182739428507,
+          47.38689399612475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 35,
+        "episode": 174,
+        "Location": "South Carolina",
+        "Classification": "Demon",
+        "Description": "a demonic presence harasses two college students in a dorm with a long history"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.9349778948439,
+          32.78617526053983
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 36,
+        "episode": 175,
+        "Location": "Wisconsin",
+        "Classification": "Ghost",
+        "Description": "a young couple and two of their friends play with a Ouija Board"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.12973542066354,
+          44.438418117128876
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 39,
+        "episode": 176,
+        "Location": "Washington",
+        "Classification": "Ghost",
+        "Description": "A chief engineer shares a story with a bartender in Colorado of a haunting in a hotel in Seattle"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.35642932838464,
+          47.63231471919698
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 40,
+        "episode": 177,
+        "Location": "Illinois",
+        "Classification": "Demon",
+        "Description": "A combat engineer suspects to be targeted by a demon he heard the story of in Afghanistan"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.18317818633486,
+          40.0531283195771
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 41,
+        "episode": 177,
+        "Location": "Colorado",
+        "Classification": "Ghost",
+        "Description": "An oil rig worker takes the train to visit his family in Denver, while passing through the Rockies he shares an encounter with others on the train"
+      },
+      "geometry": {
+        "coordinates": [
+          -107.32717664583012,
+          39.54575303596269 
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 43,
+        "episode": 178,
+        "Location": "Nebraska",
+        "Classification": "Alien",
+        "Description": "A woman recounts the tale of a possible aliens as she wanders outside to use the outhouse, possibly seeign the same beings as her grandmother years previously"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.44455313094718, 
+          41.06990924154739
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 44,
+        "episode": 179,
+        "Location": "Florida",
+        "Classification": "Unknown",
+        "Description": "A special worker for a hotel recounts the tale of an long encounter with a being that begins to harm the story teller"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.7873, 
+          27.9095
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 47,
+        "episode": 180,
+        "Location": "Kansas",
+        "Classification": "Ghost",
+        "Description": "A young girl and her siblings share a basement room where they are plagued by the presence of an old woman who died previously in the house"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.58333, 
+          39.83333
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 50,
+        "episode": 182,
+        "Location": "Arizona",
+        "Classification": "Ghost",
+        "Description": "Driving down the road between Arizona and Utah, a couple keeps seeing an old farmer who gives them unease"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.572962, 
+          36.994729
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 51,
+        "episode": 182,
+        "Location": "Texas",
+        "Classification": "Ghost",
+        "Description": "On a drive from east Texas to Dallas, a driver gets lost on the road and keeps seeing the same broken down shed all while driving straight"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.872621, 
+          31.529403
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 52,
+        "episode": 184,
+        "Location": "Texas",
+        "Classification": "Ghost",
+        "Description": "A group of friends tour Jefferson Davis Hospital in Houston and have a strange encounter"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.368381, 
+          29.7686627
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 53,
+        "episode": 185,
+        "Location": "Colorado",
+        "Classification": "Unknown",
+        "Description": "A woman goes for a run early before work with her dog and is pursued by an enveloping darkness"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.801583, 
+          38.854475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 54,
+        "episode": 185,
+        "Location": "New York",
+        "Classification": "Unknown",
+        "Description": "the story teller recounts a nightmare where they are continually stranded in dark tunnels seemingly the home of an unknown creature within the city of Rochester"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.6088, 
+          43.1566
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 55,
+        "episode": 185,
+        "Location": "Arizona",
+        "Classification": "Ghost",
+        "Description": "A couple frequent the Domes, a popular sight for ghost hunters and occult rituals, where they encounter a dark presence of a young girl with a gaping black mouth"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.773289, 
+          32.812756
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 56,
+        "episode": 186,
+        "Location": "British Columbia",
+        "Classification": "Cryptid",
+        "Description": "a young child creates a tulpa that they continue to see throughout their life and worry it has more sinister intentions"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.3045, 
+          49.0504
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 57,
+        "episode": 186,
+        "Location": "Nevada",
+        "Classification": "Ghost",
+        "Description": "A young child senses unsettling feelings and imagery while helping their mother clean an old house"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.1391, 
+          36.1716
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 60,
+        "episode": 188,
+        "Location": "Maryland",
+        "Classification": "Ghost",
+        "Description": "A worker rents a house from a friend during a construction gig and expriences the paranormal within the old cabin by a lake"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.4390, 
+          38.3583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 62,
+        "episode": 189,
+        "Location": "Connecticut",
+        "Classification": "Alien",
+        "Description": "A Family continually sees a strange craft near their neighborhood, they happen to live next to a defense contractor factory"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.6128, 
+          41.7634
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties" : {
+        "story": 67,
+        "episode": 191,
+        "Location": "Missouri",
+        "Classification": "Ghost",
+        "Description": "A couple moves into a house where a trunk belonging to the previous owners seems to tether a spirit to them"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.8612, 
+          37.7242
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
