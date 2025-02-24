@@ -646,6 +646,91 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "story": 72,
+        "episode": 194,
+        "Location": "Tennessee",
+        "Classification": "Unknown",
+        "Description": "A camper recounts a tale from when he and his girlfriend traversed to their campsite and were followed by three frightening silhouetted 'children' "
+      },
+      "geometry": {
+        "coordinates": [
+          -87.863412,
+          35.622192
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "story": 73,
+        "episode": 195,
+        "Location": "Vermont",
+        "Classification": "Ghost",
+        "Description": "On a walk with their dog, the story teller recounts seeing apparitions of strange deer and bodies falling from an old tower"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.560962,
+          42.859538
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "story": 74,
+        "episode": 195,
+        "Location": "Maine",
+        "Classification": "Unknown",
+        "Description": "A story teller tells tales of seeing the hat man on the side of the road, and how he had been in their life since the passing of thier grandparents"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.4455,
+          45.2538
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "story": 75,
+        "episode": 196,
+        "Location": "California",
+        "Classification": "Ghost",
+        "Description": "A couple explore an old cemetery where a maleveolent presence chases them off and almost have a head on collision with a vanishing car"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.4254,
+          35.7547
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "story": 76,
+        "episode": 196,
+        "Location": "Mexico",
+        "Classification": "Ghost",
+        "Description": "A backpacker makes a stop in Guadalaraja and constantly feels an unerving presence"
+      },
+      "geometry": {
+        "coordinates": [
+          -103.3473,
+          20.6752
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
